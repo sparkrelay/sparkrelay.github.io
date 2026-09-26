@@ -5,26 +5,41 @@ date: 2026-09-26
 pinned: true
 ---
 
-# Welcome to SparkRelay
+# Welcome to SparkRelay  
 
-This is the **SparkRelay** post space.
+Welcome! SparkRelay is an open source community organization.   
 
-We will use it for project updates, engineering notes, release notes, experiments, and useful documentation that does not fit naturally inside a repository README.
+Imagine that an electric spark is constantly flowing forward, being relayed and enhanced again and again!  
 
-> One spark is small. A relay is how it keeps moving.
+This is the origin of the name of SpaceRelay.  
 
-The site is intentionally content-driven: a post is just a Markdown file in `posts/`. When the site is built, the Markdown is parsed into static article data and rendered into the same visual system as the rest of SparkRelay.
+We hope that the open source community will continue to be revitalized and revitalized, and we also hope that our value can be reflected in Push again and again.  
 
-## Writing a post
+## So, what about detailed information?
 
-Create a new file such as:
+SparkRelay was established on September 26, 2026.   
 
-`posts/2026-09-27-first-update.md`
+Its predecessor, JYACS Dev, was established for a small project.   
 
-Then add front matter for the title, description, date, and optional pinned state. The build process will automatically include it in the post list.
+In order to better collaborate on multiple projects, we decided to set up a new organization! And name it here.
 
-## Why Markdown?
+## Why don't you seem to have any projects?
 
-It keeps the content portable, reviewable in Git, and easy to update through normal pull requests. The website remains a presentation layer rather than becoming the place where content is locked away.
+We believe that projects take time, especially good open source projects.   
 
-More sparks are coming. ⚡
+Every line of code and every function variable needs developers to squeeze out in their little rest time.   
+
+A good project is by no means an overnight thing!  
+
+## Join us！
+
+I am very grateful. If anyone joins, you can take a look at panghu.bond to learn about the blog of the person in charge of this organization - Panghu1102.  
+
+Any questions can be asked in the discussion repository of Github, or send a message to sparkrelay@panghu.bond  
+
+Thanks！
+
+
+
+
+
