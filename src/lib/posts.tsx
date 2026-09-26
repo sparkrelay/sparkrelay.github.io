@@ -61,7 +61,7 @@ export function getPostBodyBlocks(post: Post): RootContent[] {
 export function renderBlocks(nodes: RootContent[] = []) {
   return nodes.map((node, index) => {
     if (node.type === "heading") {
-      const Heading = `h${node.depth}` as keyof JSX.IntrinsicElements;
+      const Heading = `h${node.depth}` as "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
       const id = plainText(node.children).toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g, "-").replace(/^-|-$/g, "");
       return <Heading key={index} id={id}>{renderInline(node.children)}</Heading>;
     }
