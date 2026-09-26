@@ -24,7 +24,7 @@ export function SiteNav() {
             <Link
               key={item.href}
               href={item.href}
-              className={`nav-link ${pathname === item.href ? "is-active" : ""}`}
+              className={`nav-link ${item.href === "/posts" ? "nav-link-posts" : ""} ${pathname === item.href ? "is-active" : ""}`}
             >
               {item.label}
             </Link>
