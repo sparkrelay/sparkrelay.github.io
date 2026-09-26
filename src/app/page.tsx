@@ -38,7 +38,7 @@ export default function Home() {
 
             <div className="glass mark" aria-hidden="true">
               <div className="mark-inner">
-                <img className="hero-mark-image" src="/sparkrelay-mark.svg" alt="" />
+                <img className="hero-mark-image" src="https://drive.panghu.bond/file/public/github/组织/sparkrelay/sparkrelay.github.io/1790431662693_3D87BC24-B153-4C32-8A3D-CE10B5F85CBE.jpg" alt="" />
               </div>
             </div>
           </div>
