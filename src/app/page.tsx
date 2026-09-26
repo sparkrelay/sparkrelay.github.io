@@ -38,7 +38,7 @@ export default function Home() {
 
             <div className="glass mark" aria-hidden="true">
               <div className="mark-inner">
-                <Sparkles size={43} strokeWidth={1.7} />
+                <img className="hero-mark-image" src="/sparkrelay-mark.svg" alt="" />
               </div>
             </div>
           </div>
